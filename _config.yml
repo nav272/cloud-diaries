@@ -137,25 +137,25 @@ header:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vichare_namrata"
-    - label: "Facebook"
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
       # url: 
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nav272"
-    - label: "GitLab"
+    - label: ""
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
+    - label: ""
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/namrata-v-6a5577130/"
 
