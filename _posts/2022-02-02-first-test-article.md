@@ -6,7 +6,7 @@ title: "Single element in a sorted array"
 
 # Single element in a Sorted Array
 
-![Untitled](https://as2.ftcdn.net/v2/jpg/03/10/37/33/1000_F_310373311_t5fFxdQNCexb5vSdyORLb7tFVz4gv6cf.jpg)
+![Untitled](/assets/images/placeholderheader.png)
 
 ### Problem Statement
 
