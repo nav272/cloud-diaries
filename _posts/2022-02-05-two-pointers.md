@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Squares of a sorted array"
+title: "Squares of a sorted array version 2"
 ---
 
 # Squares of a sorted array
