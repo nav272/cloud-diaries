@@ -1,3 +1,9 @@
+---
+layout: post
+---
+
+
+
 # Migration Without Security
 
 This room focused on NoSQL databases, in particular the MongoDB. I think we remembered what the difference between the two is. Probably, probably not. 
