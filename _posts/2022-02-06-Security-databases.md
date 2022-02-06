@@ -193,8 +193,9 @@ We do a couple of queries in the search option, which is actually not accessible
 ```sql
 ID:61733f3a72e3abc63d253929:admin:admin
 ```
+![Untitled](https://user-images.githubusercontent.com/23533076/152680823-6788a0de-e4b4-455e-a830-61a7eeb6ff18.png)
 
-![Untitled](Migration%20Without%20Security%20c541178577524fc1be8e5ca4bd78b334/Untitled%202.png)
+
 
 We then try a bunch of other queries and retrieve the flags
 
