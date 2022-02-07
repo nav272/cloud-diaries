@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Posts"
-    url: /year-archive/
+    url: /_posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
