@@ -20,6 +20,7 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $fredricka: 'Fredericka the Great', cursive;
 $josin: "Josefin Slab", serif;
 $mukta: 'Mukta', sans-serif;
+$news-cycle: 'News Cycle', sans-serif;
 
 
 /* sans serif typefaces */
@@ -33,9 +34,9 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $mukta !default;//$sans-serif !default;
+$global-font-family: $news-cycle !default;//$sans-serif !default;
 $header-font-family: $fredricka !default;//$sans-serif !default;
-$caption-font-family: $serif !default;
+$caption-font-family: $fredricka !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
